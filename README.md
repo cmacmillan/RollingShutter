@@ -1,1 +1,1 @@
-[preview gif](rollingshutter.gif)
+![preview gif](rollingshutter.gif)
